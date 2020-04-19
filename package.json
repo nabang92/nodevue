@@ -1,0 +1,30 @@
+{
+  "name": "nodevue",
+  "version": "0.0.0",
+  "description": "sample project for node and vue",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nabang92/nodevue.git"
+  },
+  "keywords": [
+    "node",
+    "vue"
+  ],
+  "author": "nabang92",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nabang92/nodevue/issues"
+  },
+  "homepage": "https://github.com/nabang92/nodevue#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "ejs": "^3.0.2",
+    "express": "^4.17.1",
+    "mssql": "^6.2.0",
+    "mysql": "^2.18.1"
+  }
+}
